@@ -1,0 +1,17 @@
+{
+    "name": "tiger/twitter-bootstrap-bundle",
+    "type": "symfony-bundle",
+    "description": "TwitterBootstrap asset-bundle for Symfony2",
+    "keywords": ["twitter", "bootstrap", "symfony", "symfony2", "bundle"],
+    "license": "MIT",
+    "version": "2.1.1",
+    "autoload": {
+        "psr-0": {
+            "Tiger\\TwitterBootstrapBundle": ""
+        }
+    },
+    "target-dir": "Tiger/TwitterBootstrapBundle",
+    "require": {
+        "symfony/symfony": ">=2.0"
+    }
+}
